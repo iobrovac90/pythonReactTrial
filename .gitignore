@@ -1,12 +1,17 @@
 # Node.js / Frontend
 node_modules/
 
-# Python / Backend
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.python-version
+.venv/
+env/
+.idea/
+.vscode/
+.pytest_cache/
+*.log
 
 # Environment files
 .env
